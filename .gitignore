@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.spyproject/
+src/
+**.pyc
+
