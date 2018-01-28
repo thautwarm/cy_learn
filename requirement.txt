@@ -9,6 +9,8 @@ sklearn
 opencv-python
 pattern-matching
 EBNFParser
+tkinter
+imgui
 
 
 

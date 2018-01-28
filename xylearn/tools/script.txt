@@ -1,0 +1,13 @@
+处理文件
+  F:/xylearn/xylearn/tools/MarathonData.csv
+
+选取
+	Category
+	Name = Name.lower()
+	Marathon
+	km4week 
+	sp4week
+	scale = math.sqrt(sp4week + km4week)
+
+输出位置
+	"F:/xylearn/xylearn/tools/MarathonData2.csv"
